@@ -1,0 +1,2 @@
+# ShakespeareNLP
+NLP text generation 
